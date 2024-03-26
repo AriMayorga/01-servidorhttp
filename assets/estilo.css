@@ -1,0 +1,17 @@
+body {
+  background-color: beige;
+}
+
+.letraRoja {
+  color: red;
+  text-align: center;
+}
+
+p span {
+  color: blue;
+}
+
+.fotoPortada {
+  height: auto;
+  max-width: 300px;
+}
